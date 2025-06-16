@@ -30,5 +30,4 @@ Overall, this weather app is a great mini-project that combines HTML, CSS, JavaS
 
 OUTPUT:
 
-![Image](https://github.com/user-attachments/assets/d806b72e-be82-4a57-b93a-79b198fb08c6)
-
+![Image](https://github.com/user-attachments/assets/65286321-314a-4fe7-ae30-931cf3b5dbf7)
