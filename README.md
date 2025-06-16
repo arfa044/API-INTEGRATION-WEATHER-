@@ -28,3 +28,7 @@ To use this project, you’ll need to sign up on OpenWeatherMap and get a free A
 
 Overall, this weather app is a great mini-project that combines HTML, CSS, JavaScript, and APIs. Whether you're a student, beginner, or just trying to build your portfolio, this project will help you practice working with live data, improve your UI skills, and understand how real-time applications are built on the web.
 
+OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/d806b72e-be82-4a57-b93a-79b198fb08c6)
+
